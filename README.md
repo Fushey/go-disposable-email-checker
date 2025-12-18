@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/github/license/Fushey/go-disposable-email-checker?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Fushey/go-disposable-email-checker?style=flat-square)](https://github.com/Fushey/go-disposable-email-checker/stargazers)
 
-> **Detect disposable email addresses in real-time** with the TempMailChecker API. Block fake signups, prevent spam, and protect your platform from abuse.
+> **Detect disposable email addresses in real-time** with the TempMailChecker API. Block fake signups, prevent spam, and protect your platform from abuse. Zero dependencies.
 
 ## 🚀 Quick Start
 
