@@ -27,7 +27,7 @@ func main() {
 	}
 
 	fmt.Println("TempMailChecker Go SDK Example")
-	fmt.Println("==============================\n")
+	fmt.Println("==============================")
 
 	// Test emails
 	emails := []string{
